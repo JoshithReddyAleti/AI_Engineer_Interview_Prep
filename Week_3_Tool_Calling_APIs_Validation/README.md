@@ -1,6 +1,6 @@
 # 🔧 Week 3 — Tool Calling, APIs & Validation Interview Prep
 
-> **Maps to:** [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project_Blueprint_for_Beginners)
+> **Maps to:** [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin)
 >
 > **Newsletter:** [AI Engineering Roadmap 2026](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)
 
