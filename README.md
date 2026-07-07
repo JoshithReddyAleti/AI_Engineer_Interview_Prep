@@ -33,7 +33,7 @@ Plus a comprehensive [Extra Prep Questions](Extra_Prep_Questions.md) file coveri
 | 4 | [End-to-End AI Project with Memory, tests & Shipping product](Episode_4_Your_First_End_To_End_AI_Project/) | [Episode_4_Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | 🔜 |
 | 5 | RAG — Connecting AI to Your Data | Coming soon | 🔜 |
 | 6 | Frameworks — LangChain, LlamaIndex, LangGraph, CrewAI | Coming soon | 🔜 |
-| 7 | Memory & State in AI Systems | Coming soon | 🔜 |
+| 7 | Memory & State in AI Systems and many more | Coming soon | 🔜 |
 
 **Bonus:** [Extra Prep Questions](Extra_Prep_Questions.md) — RAG architecture, FastAPI, Docker/K8s, embeddings, vector DBs, fine-tuning, production monitoring, and more.
 
