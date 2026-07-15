@@ -36,7 +36,7 @@ This is the week that separates "I built a chatbot" from "I shipped a product."
 | 1 | [LLM Fundamentals](../Week_1_LLM_Fundamentals/) | [Understanding_LLMs_From_The_Inside_Out](https://github.com/JoshithReddyAleti/Understanding_LLMs_From_The_Inside_Out) | ✅ |
 | 2 | [Python for AI](../Week_2_Python_For_AI/) | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
 | 3 | [Tool Calling, APIs & Validation](../Week_3_Tool_Calling_APIs_Validation/) | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
-| **4** | **End-to-End AI Projects** ← you are here | [Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | ✅ |
+| **4** | **[End-to-End AI Projects](https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main/Week_4_End_To_End_AI_Projects)** ← you are here | [Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | ✅ |
 | 5 | RAG | Coming soon | 🔜 |
 | 6 | Frameworks — LangChain, LlamaIndex, LangGraph, CrewAI | Coming soon | 🔜 |
 | 7 | Memory & State in AI Systems | Coming soon | 🔜 |
