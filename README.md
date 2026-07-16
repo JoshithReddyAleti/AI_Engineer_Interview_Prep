@@ -19,7 +19,7 @@ Each week maps directly to an episode of the AI Engineering Roadmap 2026 newslet
 | `03_System_Design_Questions.md` | Architecture, scaling, trade-offs — whiteboard-level AI system design |
 | `04_Behavioral_Scenario_Questions.md` | "What would you do if…" — production incidents, team dynamics, real-world judgment |
 
-Plus a comprehensive [Extra Prep Questions](Extra_Prep_Questions.md) file covering 65+ cross-cutting topics that span multiple weeks.
+Plus a comprehensive [Extra Prep Questions](Extra_Prep_Questions.md) file covering 70+ cross-cutting topics that span multiple weeks.
 
 ---
 
@@ -31,11 +31,11 @@ Plus a comprehensive [Extra Prep Questions](Extra_Prep_Questions.md) file coveri
 | 2 | [Python for AI](Week_2_Python_For_AI/) | [Python_For_AI_What_Actually_Matters](https://github.com/JoshithReddyAleti/Python_For_AI_What_Actually_Matters) | ✅ |
 | 3 | [Tool Calling, APIs & Validation](Week_3_Tool_Calling_APIs_Validation/) | [Building_AI_Project_Blueprint_for_Beginners](https://github.com/JoshithReddyAleti/Building_AI_Project-Blueprint_for_Begin) | ✅ |
 | 4 | [End-to-End AI Projects](Week_4_End_To_End_AI_Projects/) | [Your_First_End_To_End_AI_Project](https://github.com/JoshithReddyAleti/Episode_4_Your_First_End_To_End_AI_Project/tree/main/Your_First_End_To_End_AI_Project/Your_First_End_To_End_AI_Project) | ✅ |
-| 5 | RAG — Connecting AI to Your Data | Coming soon | 🔜 |
+| 5 | [RAG & Augmented Generation](Week_5_RAG_Augmented_Generation/) | [Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation) | ✅ |
 | 6 | Frameworks — LangChain, LlamaIndex, LangGraph, CrewAI | Coming soon | 🔜 |
-| 7 | Memory & State in AI Systems and many more | Coming soon | 🔜 |
+| 7 | Memory & State in AI Systems | Coming soon | 🔜 |
 
-**Bonus:** [Extra Prep Questions](Extra_Prep_Questions.md) — 65+ deep-dive questions covering RAG architecture, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
+**Bonus:** [Extra Prep Questions](Extra_Prep_Questions.md) — 70+ deep-dive questions covering advanced RAG variants, embeddings, vector DBs, agents, fine-tuning, prompt engineering, evaluation, enterprise security, inference optimization, observability, multi-tenancy, and more.
 
 ---
 
@@ -47,8 +47,9 @@ Plus a comprehensive [Extra Prep Questions](Extra_Prep_Questions.md) file coveri
 | Week 2 — Python for AI | 36 |
 | Week 3 — Tool Calling, APIs & Validation | 41 |
 | Week 4 — End-to-End AI Projects | 65 |
+| Week 5 — RAG & Augmented Generation | 66 |
 | Extra Prep (cross-cutting topics) | 70+ |
-| **Total** | **257+** |
+| **Total** | **323+** |
 
 ---
 
@@ -103,10 +104,6 @@ This prep series teaches you to think and talk like the second person.
 ## Part of the AI Engineering Roadmap 2026
 
 [📬 Subscribe to the newsletter](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) — it's free, weekly, and each episode pairs a LinkedIn post with a production-grade GitHub repo.
-
-Also check out the companion interview prep newsletter:
-
-[📬 AI Engineer Interview Prep Newsletter](https://www.linkedin.com/newsletters/ai-engineer-interview-prep-7479719423172460544/)
 
 ---
 
