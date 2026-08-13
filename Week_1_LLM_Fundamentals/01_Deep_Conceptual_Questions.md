@@ -32,7 +32,7 @@ This is autoregressive generation. The model has no "plan" for the full response
 
 **Answer:**
 
-Tokenization is how raw text gets converted into the integer IDs the model actually processes. There are three possible approaches, each with trade-offs:
+Tokenization is the process of converting raw text into small pieces called tokens that an LLM can process. There are three possible approaches, each with trade-offs:
 
 **Character-level:** Every character is a token. Vocabulary is tiny (~256 for UTF-8 bytes), but sequences become extremely long. "artificial intelligence" = 25 tokens. This blows up compute costs (attention is O(n²) in sequence length) and makes it harder for the model to learn word-level semantics.
 
